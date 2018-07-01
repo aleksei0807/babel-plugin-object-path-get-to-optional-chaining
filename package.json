@@ -1,0 +1,13 @@
+{
+  "name": "babel-plugin-object-path-get-to-optional-chaining",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.51",
+    "@babel/plugin-proposal-optional-chaining": "^7.0.0-beta.51",
+    "@babel/preset-env": "^7.0.0-beta.51",
+    "@babel/register": "^7.0.0-beta.51"
+  }
+}
