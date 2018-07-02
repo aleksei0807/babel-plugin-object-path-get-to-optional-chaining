@@ -19,5 +19,6 @@ examples.forEach((examplePath) => {
   foo.bar.baz.bar?.baz;
   foo.bar?.baz?.bar;
   */
+  console.log(examplePath)
   console.log(output.code, '\n')
 })
