@@ -50,6 +50,7 @@ foo.bar.baz.bar?.baz;
 foo.bar?.baz?.bar;
 ```
 
+---
 
 from:
 ```javascript
@@ -69,6 +70,7 @@ foo.bar.baz.bar?.baz;
 foo.bar?.baz?.bar;
 ```
 
+---
 
 from:
 ```javascript
@@ -86,6 +88,7 @@ foo.bar.baz.bar?.baz;
 foo.bar?.baz?.bar;
 ```
 
+---
 
 from:
 ```javascript
@@ -103,6 +106,7 @@ foo.bar.baz.bar?.baz;
 foo.bar?.baz?.bar;
 ```
 
+---
 
 from:
 ```javascript
@@ -122,6 +126,7 @@ foo.bar.baz.bar?.baz;
 foo.bar?.baz?.bar;
 ```
 
+---
 
 from:
 ```javascript
@@ -141,6 +146,7 @@ foo.bar.baz.bar?.baz;
 foo.bar?.baz?.bar;
 ```
 
+---
 
 from:
 ```javascript
@@ -162,6 +168,7 @@ foo.bar?.baz?.bar;
 objectPath.set(foo, 'baz');
 ```
 
+---
 
 from:
 ```javascript
